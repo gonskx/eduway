@@ -1,0 +1,9 @@
+> docker images                                                                                                                                                                   15:46
+REPOSITORY                                                    TAG       IMAGE ID       CREATED              SIZE
+factory-registry.cloudzcp.io/edu005/awesome-product-service   0.1.0     18045046dd35   25 seconds ago       186MB
+factory-registry.cloudzcp.io/edu005/awesome-payment-service   0.1.0     bf916aaed0a3   About a minute ago   178MB
+factory-registry.cloudzcp.io/edu005/awesome-order-service     0.1.0     ecba33e09e5d   About a minute ago   178MB
+factory-registry.cloudzcp.io/edu005/awesome-cart-service      0.1.0     8ca7dc645f63   2 minutes ago        178MB
+factory-registry.cloudzcp.io/edu005/awesome-bff-service       0.1.0     dab9157dcb1d   2 minutes ago        168MB
+factory-registry.cloudzcp.io/edu005/awesome-account-service   0.1.0     5674df5cad15   4 minutes ago        182MB
+factory-registry.cloudzcp.io/edu005/awesome-account-service   <none>    e4d3c545011e   5 minutes ago        182MB
